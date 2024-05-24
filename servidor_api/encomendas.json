@@ -1,0 +1,39 @@
+{
+    "encomendas": [
+        {
+        "nome":"Bruce Wayne",
+        "produto": "Tablet",
+        "qtde": 1,
+        "unitario": 1599,
+        "total": 0
+        },
+        {
+        "nome":"Capitão Pátria",
+        "produto": "Smartphone",
+        "qtde": 3,
+        "unitario": 2599,
+        "total": 0
+        },
+        {
+        "nome":"Billy Bruto",
+        "produto": "Fone Bluetooth",
+        "qtde": 10,
+        "unitario": 89,
+        "total": 0
+        },
+        {
+        "nome":"Walter White",
+        "produto": "Controle Remoto",
+        "qtde": 1,
+        "unitario": 25,
+        "total": 0
+         },
+        {
+        "nome":"Pelé",
+        "produto": "Carregador Portátil",
+        "qtde": 2,
+        "unitario": 60,
+        "total": 0
+        }   
+    ]
+}
